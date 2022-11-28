@@ -19,5 +19,5 @@ Here are some ideas to get you started:
 - 📫 How to reach me **bacanak117@gmail.com**
 - ⚡ Fun fact **I'm QA Automation Engineer **...
 -->
-![Github stats 1](https://github-readme-stats.vercel.app/api?username=mustafakoca99&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
