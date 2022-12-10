@@ -14,7 +14,10 @@
 <a href="https://www.linkedin.com/in/mustafa-bacanak-4515a924b/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a target="_blank"href="https://medium.com/@bacanak117"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
+<a target="_blank"href="https://medium.com/@bacanak117"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
+
+    ![walking-code](https://user-images.githubusercontent.com/117370164/206865119-afa40b2f-b3aa-4de5-b0b5-2d54cdb62b38.gif)
+
 
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
