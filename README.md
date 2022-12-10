@@ -11,10 +11,10 @@
 - ⏲ What we are doing now: I'm trying to write clean code 🚀
 - 📫 How to reach me ** bacanak117@gmail.com **
 - 
-<a href="https://www.linkedin.com/in/erolevren/" target="_blank">
+<a href="https://www.linkedin.com/in/mustafa-bacanak-4515a924b/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a> 
-<a target="_blank"href="https://medium.com/@erlevren"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
+<a target="_blank"href="https://medium.com/@bacanak117"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
 
 <!--
 **MustafaBacanak/MustafaBacanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
