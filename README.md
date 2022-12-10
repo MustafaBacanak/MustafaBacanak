@@ -18,6 +18,5 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
-<img src="walking-code.gif" width="auto">   ![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
-
+<img src="walking-code.gif" width="auto">
 
