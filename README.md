@@ -19,8 +19,8 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
 
+![tumblr_e1c5da7500447ac51ab1661819d6f4b2_b8361cd8_1280](https://user-images.githubusercontent.com/117370164/206866195-f6e95589-5f89-4156-97a0-359dc4968893.gif)
 
-![2jkb3dogt6k21](https://user-images.githubusercontent.com/117370164/206866154-2d7c6188-7e80-4a4a-96a1-b9e9a8a1bdaa.gif)
 
 
 
