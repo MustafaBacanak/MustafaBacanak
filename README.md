@@ -19,11 +19,13 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
 
+![download](https://user-images.githubusercontent.com/117370164/206866827-5845cc1d-fc49-4728-b68c-ecd3997f2e72.jpg)
+
+![DualBinaryEncoders](https://user-images.githubusercontent.com/117370164/206866888-a10af769-e8ab-4e87-83d2-efcd89eb92bd.gif)
 
 
+![giphy-48](https://user-images.githubusercontent.com/117370164/206866822-cec49c33-6b34-4144-9895-da56ff2df5af.gif)
 
-
-![qa](https://user-images.githubusercontent.com/117370164/206866640-68aea77a-8348-4d01-9f9c-5a5ab8f831f7.gif)
 
 
 
