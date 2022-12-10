@@ -20,8 +20,9 @@
 
 
 
+![ClearcutDampAsiaticwildass-size_restricted](https://user-images.githubusercontent.com/117370164/206867968-073d51b4-035e-43af-bdb8-b868b9204ef1.gif)  [tumblr_6422cdf61615803038eb77e3ddd9c1a4_a8f9fb0b_400](https://user-images.githubusercontent.com/117370164/206867885-58302fc7-0f6a-4f7a-9444-404492667bbb.gif)
 
-![QANq](https://user-images.githubusercontent.com/117370164/206867753-cb4f6d45-b9b2-4345-bcd6-32686154bc97.gif)  ![tumblr_6422cdf61615803038eb77e3ddd9c1a4_a8f9fb0b_400](https://user-images.githubusercontent.com/117370164/206867885-58302fc7-0f6a-4f7a-9444-404492667bbb.gif)
+
  
 
 
