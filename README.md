@@ -2,6 +2,8 @@
 
 ### Hi! Welcome to My Github Profile 👋
 
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Turkey;I'm+Mustafa;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
+
 
 - 🔭 I’m Qa Sofrtware Engineer                                                                            
 - 🌱 Java ~ it's okey.. Im working on Selenium and others
@@ -17,5 +19,5 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
-<img src="walking-code.gif" width="auto">
+
 
