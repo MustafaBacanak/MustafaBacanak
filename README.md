@@ -7,7 +7,7 @@
 - 🔭 I’m Qa Sofrtware Engineer                                                                            
 - 🌱 Java ~ it's okey.. Im working on Selenium and others
 - 💪 2023 goals: To reveal quality projects and automation codes.
-- - ⚡ Fun fact: I love coding 💻, snowboard 🏂 and always music 🎧
+- ⚡ Fun fact: I love coding 💻, snowboard 🏂 and always music 🎧
 - ⏲ What we are doing now: I'm trying to write clean code 🚀
 
 <!--
