@@ -22,8 +22,8 @@
 
 
 
-![giphy](https://user-images.githubusercontent.com/117370164/206866565-e9fc4e95-79b4-4cba-b74c-f82308f4b818.gif)
 
+![qa](https://user-images.githubusercontent.com/117370164/206866640-68aea77a-8348-4d01-9f9c-5a5ab8f831f7.gif)
 
 
 
