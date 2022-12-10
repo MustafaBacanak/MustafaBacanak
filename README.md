@@ -1,5 +1,4 @@
-- ![header_]([https://user-images.githubuserconten![fm2ivbv](https://user-images.githubusercontent.com/117370164/206865003-2e5fca40-ed54-47d4-993c-2ffb9d1e40f0.jpg)
-t.com/117486085/204156152-daf3ea7e-5c16-4f76-9ee7-b0752c00da20.png])
+[fm2ivbv](https://user-images.githubusercontent.com/117370164/206865003-2e5fca40-ed54-47d4-993c-2ffb9d1e40f0.jpg)
 
 ### Hi! Welcome to My Github Profile 👋
 
