@@ -16,11 +16,8 @@
 <a target="_blank"href="https://medium.com/@bacanak117"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;	
 -
 
-**MustafaBacanak/MustafaBacanak** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-
-
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
+
+<img src="walking-code.gif" width="auto">   ![erlevren's GitHub stats](https://github-readme-stats.vercel.app/api?username=erlevren&theme=dark&show_icons=true)
+
 
