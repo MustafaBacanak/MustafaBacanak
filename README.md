@@ -18,9 +18,9 @@
 
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
-![walking-code](https://user-images.githubusercontent.com/117370164/206865119-afa40b2f-b3aa-4de5-b0b5-2d54cdb62b38.gif)  
 
 
+![200w](https://user-images.githubusercontent.com/117370164/206865888-f038d07a-b0af-44b4-96cc-bf88796a8e47.gif)
 
 
 
