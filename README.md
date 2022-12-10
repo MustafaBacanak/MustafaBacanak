@@ -19,12 +19,10 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
 
-![DualBinaryEncoders](https://user-images.githubusercontent.com/117370164/206866888-a10af769-e8ab-4e87-83d2-efcd89eb92bd.gif)
 
 
-
-
-![QANq](https://user-images.githubusercontent.com/117370164/206867753-cb4f6d45-b9b2-4345-bcd6-32686154bc97.gif)   ![ascii-gif-10](https://user-images.githubusercontent.com/117370164/206867760-14e7e572-2d45-4eae-bdf4-63eab7396527.gif)
+![QANq](https://user-images.githubusercontent.com/117370164/206867753-cb4f6d45-b9b2-4345-bcd6-32686154bc97.gif)  ![tumblr_6422cdf61615803038eb77e3ddd9c1a4_a8f9fb0b_400](https://user-images.githubusercontent.com/117370164/206867885-58302fc7-0f6a-4f7a-9444-404492667bbb.gif)
+ 
 
 
 
