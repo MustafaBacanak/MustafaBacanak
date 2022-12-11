@@ -1,6 +1,5 @@
 ![1655512977_preview_DeusExPREVIEW](https://user-images.githubusercontent.com/117370164/206935697-7d8265bc-c91e-4894-a518-33872498815a.gif)
 
-### Hi! Welcome to My Github Profile 👋
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Software+Automation+Engineer+%7C+Turkey;I'm+Mustafa+Bacanak;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
