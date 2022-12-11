@@ -5,7 +5,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Turkey;I'm+Mustafa;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
 
-- 🔭 I’m Qa Sofrtware Engineer                                                                            
+- 🔭 I’m Software Test Engineer                                                                            
 - 🌱 Java ~ it's okey.. Im working on Selenium and others
 - 💪 2023 goals: To reveal quality projects and automation codes.
 - ⚡ Fun fact: I love coding 💻, snowboard 🏂 and always music 🎧
