@@ -2,7 +2,7 @@
 
 ### Hi! Welcome to My Github Profile 👋
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Turkey;I'm+Mustafa Bacanak;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=QA+Automation+Engineer+%7C+Turkey;I'm+MustafaBacanak;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
 
 - 🔭 I’m Software Test Engineer                                                                            
