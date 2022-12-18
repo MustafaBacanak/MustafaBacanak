@@ -1,5 +1,5 @@
-![1](https://user-images.githubusercontent.com/117370164/208296766-0192c64d-44ff-44b3-b5a1-7add8ce39169.jpg)
-
+[![1](https://user-images.githubusercontent.com/117370164/208296766-0192c64d-44ff-44b3-b5a1-7add8ce39169.jpg)
+](https://www.hizliresim.com/hp62q4v)
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Software+Automation+Engineer+%7C+Turkey;I'm+Mustafa+Bacanak;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
