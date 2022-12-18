@@ -1,4 +1,4 @@
-![erp2](https://user-images.githubusercontent.com/117370164/208296399-09d87f9f-0912-48a3-a4e7-dd33d38b9d9a.jpg)
+![1](https://user-images.githubusercontent.com/117370164/208296766-0192c64d-44ff-44b3-b5a1-7add8ce39169.jpg)
 
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Software+Automation+Engineer+%7C+Turkey;I'm+Mustafa+Bacanak;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
