@@ -18,10 +18,13 @@
 ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
 
+![images](https://user-images.githubusercontent.com/117370164/209476067-c7025b2b-6764-4f85-998d-4cdac92d1b68.jpg)
 
 
 
 ![qa](https://user-images.githubusercontent.com/117370164/206934660-5fd6df66-6130-4467-aeb2-a9ee8cb82ad7.gif)
+
+
 
 
 
