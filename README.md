@@ -16,7 +16,7 @@
 <a target="_blank"href="https://medium.com/@bacanak117"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" /></a>&nbsp;&nbsp;&nbsp;
 
 
-    ![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
+![Github stats 1](https://github-readme-stats.vercel.app/api?username=MustafaBacanak&show_icons=true&theme=gradient)
 
 
 
