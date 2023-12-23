@@ -1,7 +1,7 @@
 ![hp62q4v](https://user-images.githubusercontent.com/117370164/208296968-b5d0d791-7ec3-4604-8477-d56930370ed6.jpg)
 
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Software+Automation+Engineer+%7C+Turkey;I'm+Mustafa+Bacanak;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Software+Automation+Engineer+%7C+Turkey;I'm+Mustafa+Bacanak;I+am+sharing+my+projects+in+here;I+usually+using+Java+for+projects)](https://git.io/typing-svg)
 
 
 - 🔭 I have been working as a Software Test Engineer since Jan 2021.                                                                            
