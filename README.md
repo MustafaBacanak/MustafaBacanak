@@ -4,8 +4,8 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=%23732DA4&lines=Software+Automation+Engineer+%7C+Turkey;I'm+Mustafa+Bacanak;I+am+sharing+my+projects+in+here;I+usually+using+;Java+programming+language+for+projects)](https://git.io/typing-svg)
 
 
-- 🔭 I’m Software Test Engineer                                                                            
-- 🌱 Tenting ~ it's okey.. Im working on Aws and DevOps
+- 🔭 I have been working as a Software Test Engineer since Jan 2021.                                                                            
+- 🌱 Testing ~ it's okey.. Im working on Aws and DevOps tools
 - 💪 2024 goals: Being excellent in AWS and Devops
 - ⚡ Fun fact: I love coding 💻, snowboard 🏂 and always music 🎧
 - ⏲ What we are doing now: I always try to write Clean Code 🚀
