@@ -5,10 +5,10 @@
 
 
 - 🔭 I’m Software Test Engineer                                                                            
-- 🌱 Java ~ it's okey.. Im working on Selenium and others
-- 💪 2023 goals: To reveal quality projects and automation codes.
+- 🌱 Tenting ~ it's okey.. Im working on Aws and DevOps
+- 💪 2024 goals: Being excellent in AWS and Devops
 - ⚡ Fun fact: I love coding 💻, snowboard 🏂 and always music 🎧
-- ⏲ What we are doing now: I'm trying to write clean code 🚀
+- ⏲ What we are doing now: I always try to write Clean Code 🚀
 - 📫 How to reach me ** bacanak117@gmail.com ** 
 <a href="https://www.linkedin.com/in/mustafa-bacanak-4515a924b/" target="_blank">
 <img src=https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
